@@ -1,7 +1,7 @@
 {
   "name": "gulp-s18n",
-  "version": "0.0.1",
-  "description": "s18n, semantic localization, for gulp",
+  "version": "0.0.2",
+  "description": "gulp-s18n is now gulp-l10n",
   "main": "index.js",
   "dependencies": {
     "gulp-util": "^3.0.4",
